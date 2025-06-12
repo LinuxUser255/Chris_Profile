@@ -6,13 +6,12 @@ A professional profile page showcasing Chris Bingham's journey and expertise in 
 
 This repository contains the code for Chris Bingham's professional profile page, hosted by [Cyber Synapse S.R.L.](https://cybersynapse.ro/) The site features Chris's career journey, contributions to cybersecurity projects (particularly Project HARDN), and professional connections.
 
-## Features
+## Changes made to the original
 
-- Detailed biography of Chris Bingham's career path to cybersecurity
-- Information about Chris's contributions to Project HARDN
-- Professional links to LinkedIn, GitHub, and GitLab profiles
-- Responsive design for various screen sizes
-- Integration with Google Analytics
+- Added a left margin indent
+- Added better spacing between paragraphs in the bio
+- Added more and larger font hyper-links 
+- Added a larger Buy me a Coffee link
 
 ## Technologies Used
 
