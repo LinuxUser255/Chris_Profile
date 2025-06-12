@@ -1,10 +1,10 @@
-# Chris Bingham Profile
+# [Chris Bingham Profile - Cyber Synapse S.R.L](https://cybersynapse.ro/Chris_Bingham.php)
 
 A professional profile website showcasing Chris Bingham's journey and expertise in cybersecurity.
 
 ## Overview
 
-This repository contains the code for Chris Bingham's professional profile website, hosted by Cyber Synapse S.R.L. The site features Chris's career journey, contributions to cybersecurity projects (particularly Project HARDN), and professional connections.
+This repository contains the code for Chris Bingham's professional profile website, hosted by [Cyber Synapse S.R.L.](https://cybersynapse.ro/) The site features Chris's career journey, contributions to cybersecurity projects (particularly Project HARDN), and professional connections.
 
 ## Features
 
@@ -30,7 +30,9 @@ This repository contains the code for Chris Bingham's professional profile websi
 
 ## Project HARDN
 
-The profile highlights Chris's work on Project HARDN, an open-source cybersecurity software focused on hardening GNU/Linux systems, specifically Debian. The project's repository can be found at [https://github.com/OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN).
+The profile highlights Chris's work on Project HARDN, an open-source cybersecurity software focused on hardening GNU/Linux systems, specifically Debian. The project's repository can be found at 
+<br>
+[https://github.com/OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN).
 
 ## Contact
 
