@@ -1,6 +1,9 @@
 # [Chris Bingham Profile - Cyber Synapse S.R.L](https://cybersynapse.ro/Chris_Bingham.php)
 
 A professional profile page showcasing Chris Bingham's journey and expertise in cybersecurity.
+This is an edited version of the page that is currently up.
+
+**See the Changes made to `Chris_Bingham.php`**
 
 ## Overview
 
