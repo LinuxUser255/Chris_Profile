@@ -1,10 +1,10 @@
 # [Chris Bingham Profile - Cyber Synapse S.R.L](https://cybersynapse.ro/Chris_Bingham.php)
 
-A professional profile website showcasing Chris Bingham's journey and expertise in cybersecurity.
+A professional profile page showcasing Chris Bingham's journey and expertise in cybersecurity.
 
 ## Overview
 
-This repository contains the code for Chris Bingham's professional profile website, hosted by [Cyber Synapse S.R.L.](https://cybersynapse.ro/) The site features Chris's career journey, contributions to cybersecurity projects (particularly Project HARDN), and professional connections.
+This repository contains the code for Chris Bingham's professional profile page, hosted by [Cyber Synapse S.R.L.](https://cybersynapse.ro/) The site features Chris's career journey, contributions to cybersecurity projects (particularly Project HARDN), and professional connections.
 
 ## Features
 
